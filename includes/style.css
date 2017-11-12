@@ -1,0 +1,48 @@
+/*body{
+  font-family: 'Roboto',sans-serif;
+}*/
+
+.carousel-inner .item{
+  width:1366px;
+  height:620px;
+  background-size: 1366px 620px;
+}
+
+.carousel-caption{
+  padding-bottom: 20em;
+}
+
+.navbar{
+  margin-bottom: 0px;
+  border-radius: 0;
+  border: none;
+  line-height: normal;
+  letter-spacing: 2px;
+}
+
+.custom-league{
+  background-image: url("../images/home-cricket.jpg");
+  background-size: 1366px 620px;
+  background-repeat: no-repeat;
+  padding-top: 12em;
+  color: #f22424;
+  padding-bottom: 20em;
+}
+
+.custom-jumbotron{
+  margin-top: 2em;
+  width: 50em;
+  margin-left: 15em;
+}
+
+.player-jumbotron{
+  padding-top: 0;
+}
+
+.user{
+  color: #939393;
+}
+
+.custom-row{
+  padding-bottom: 2em;
+}
